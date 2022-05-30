@@ -1,0 +1,16 @@
+{
+    "name": "bootcamp/composer-test",
+    "description": "Mi primer proyecto con Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "VictorLopez",
+            "email": "victor20.lopez99@gmail.com"
+        }
+    ],
+    "require": {
+        "php-sage/sage": "^1.2",
+        "illuminate/database": "^9.14",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
